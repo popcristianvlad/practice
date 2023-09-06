@@ -1,0 +1,226 @@
+[
+  {
+    "_id": {
+      "$oid": "64f77cd14511777188783677"
+    },
+    "match_id": "387150",
+    "country_id": "44",
+    "country_name": "England",
+    "league_id": "152",
+    "league_name": "Premier League",
+    "match_date": "2020-01-01",
+    "match_status": "Finished",
+    "match_time": "13:30",
+    "match_hometeam_id": "3079",
+    "match_hometeam_name": "Brighton & Hove Albion",
+    "match_hometeam_score": "1",
+    "match_awayteam_name": "Chelsea",
+    "match_awayteam_id": "88",
+    "match_awayteam_score": "1",
+    "match_hometeam_halftime_score": "0",
+    "match_awayteam_halftime_score": "1",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "1",
+    "match_awayteam_ft_score": "1",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "21",
+    "match_stadium": "The American Express Community Stadium (Falmer, East Sussex)",
+    "match_referee": "S. Attwell",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3079_brighton--hove-albion.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/88_chelsea.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/152_premier-league.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/44_england.png",
+    "league_year": "2019/2020",
+    "fk_stage_key": "6",
+    "stage_name": "Current",
+    "goalscorer": [
+      {
+        "time": "10",
+        "home_scorer": "",
+        "home_scorer_id": "",
+        "home_assist": "",
+        "home_assist_id": "",
+        "score": "0 - 1",
+        "away_scorer": "Azpilicueta",
+        "away_scorer_id": "437671495",
+        "away_assist": "",
+        "away_assist_id": "",
+        "info": "",
+        "score_info_time": "1st Half"
+      },
+      {
+        "time": "84",
+        "home_scorer": "A. Jahanbakhsh",
+        "home_scorer_id": "4048035496",
+        "home_assist": "L. Dunk",
+        "home_assist_id": "4085081223",
+        "score": "1 - 1",
+        "away_scorer": "",
+        "away_scorer_id": "",
+        "away_assist": "",
+        "away_assist_id": "",
+        "info": "",
+        "score_info_time": "2nd Half"
+      }
+    ],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "G. Potter",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "96232817"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "F. Lampard",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "2456969798"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  },
+  {
+    "_id": {
+      "$oid": "64f77cd14511777188783678"
+    },
+    "match_id": "387151",
+    "country_id": "44",
+    "country_name": "England",
+    "league_id": "152",
+    "league_name": "Premier League",
+    "match_date": "2020-01-01",
+    "match_status": "Finished",
+    "match_time": "13:30",
+    "match_hometeam_id": "3075",
+    "match_hometeam_name": "Burnley",
+    "match_hometeam_score": "1",
+    "match_awayteam_name": "Aston Villa",
+    "match_awayteam_id": "3088",
+    "match_awayteam_score": "2",
+    "match_hometeam_halftime_score": "0",
+    "match_awayteam_halftime_score": "2",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_ft_score": "1",
+    "match_awayteam_ft_score": "2",
+    "match_hometeam_system": "",
+    "match_awayteam_system": "",
+    "match_live": "0",
+    "match_round": "21",
+    "match_stadium": "Turf Moor (Burnley)",
+    "match_referee": "M. Oliver",
+    "team_home_badge": "https://apiv3.apifootball.com/badges/3075_burnley.jpg",
+    "team_away_badge": "https://apiv3.apifootball.com/badges/3088_aston-villa.jpg",
+    "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/152_premier-league.png",
+    "country_logo": "https://apiv3.apifootball.com/badges/logo_country/44_england.png",
+    "league_year": "2019/2020",
+    "fk_stage_key": "6",
+    "stage_name": "Current",
+    "goalscorer": [
+      {
+        "time": "27",
+        "home_scorer": "",
+        "home_scorer_id": "",
+        "home_assist": "",
+        "home_assist_id": "",
+        "score": "0 - 1",
+        "away_scorer": "Wesley",
+        "away_scorer_id": "984438318",
+        "away_assist": "",
+        "away_assist_id": "",
+        "info": "",
+        "score_info_time": "1st Half"
+      },
+      {
+        "time": "41",
+        "home_scorer": "",
+        "home_scorer_id": "",
+        "home_assist": "",
+        "home_assist_id": "",
+        "score": "0 - 2",
+        "away_scorer": "J. Grealish",
+        "away_scorer_id": "781199712",
+        "away_assist": "Douglas Luiz",
+        "away_assist_id": "1335192908",
+        "info": "",
+        "score_info_time": "1st Half"
+      },
+      {
+        "time": "80",
+        "home_scorer": "C. Wood",
+        "home_scorer_id": "3313915333",
+        "home_assist": "A. Westwood",
+        "home_assist_id": "1127229095",
+        "score": "1 - 2",
+        "away_scorer": "",
+        "away_scorer_id": "",
+        "away_assist": "",
+        "away_assist_id": "",
+        "info": "",
+        "score_info_time": "2nd Half"
+      }
+    ],
+    "cards": [],
+    "substitutions": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "S. Dyche",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "3044773823"
+          }
+        ],
+        "missing_players": []
+      },
+      "away": {
+        "starting_lineups": [],
+        "substitutes": [],
+        "coach": [
+          {
+            "lineup_player": "D. Smith",
+            "lineup_number": "",
+            "lineup_position": "",
+            "player_key": "3784128202"
+          }
+        ],
+        "missing_players": []
+      }
+    },
+    "statistics": [],
+    "statistics_1half": []
+  }
+]
