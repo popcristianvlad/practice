@@ -10,6 +10,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── codeacademy-learn-python-3    # Course: Codecademy - Learn Python 3
     ├── learning-ml                   # Learning Machine Learning
     ├── learning-python               # Learning Python
+    ├── practice-leetcode             # Practice LeetCode
 
 ## Profiles
 * [HackerRank](https://www.hackerrank.com/popcristianvlad)
