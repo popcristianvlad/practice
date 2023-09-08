@@ -8,5 +8,8 @@ out
 # Maven
 target
 
+# Node JS
+node_modules
+
 # Jupyter
 .ipynb_checkpoints
