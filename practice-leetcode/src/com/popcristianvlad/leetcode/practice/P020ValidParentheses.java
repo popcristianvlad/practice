@@ -3,7 +3,7 @@ package com.popcristianvlad.leetcode.practice;
 import java.util.ArrayList;
 import java.util.List;
 
-public class P20ValidParentheses {
+public class P020ValidParentheses {
 
     class Queue {
         List<Character> parantheses = new ArrayList<>();

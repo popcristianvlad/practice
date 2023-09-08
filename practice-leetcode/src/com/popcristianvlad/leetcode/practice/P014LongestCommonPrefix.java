@@ -1,6 +1,6 @@
 package com.popcristianvlad.leetcode.practice;
 
-public class P14LongestCommonPrefix {
+public class P014LongestCommonPrefix {
 
     public static String longestCommonPrefix(String[] strs) {
         int numberOfStrings = strs.length;

@@ -17,7 +17,7 @@ class ListNode2 {
     }
 }
 
-public class P21MergeTwoSortedLists {
+public class P021MergeTwoSortedLists {
 
     public static ListNode2 mergeTwoLists(ListNode2 list1, ListNode2 list2) {
         if (list1 == null) {

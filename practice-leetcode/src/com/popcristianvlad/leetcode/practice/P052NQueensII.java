@@ -3,7 +3,7 @@ package com.popcristianvlad.leetcode.practice;
 import java.util.ArrayList;
 import java.util.List;
 
-public class P52NQueensII {
+public class P052NQueensII {
 
     class Queen {
         int row;

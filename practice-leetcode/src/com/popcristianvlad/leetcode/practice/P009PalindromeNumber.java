@@ -1,6 +1,6 @@
 package com.popcristianvlad.leetcode.practice;
 
-public class P09PalindromeNumber {
+public class P009PalindromeNumber {
 
     public static boolean isPalindrome(int x) {
         if (x < 0) {

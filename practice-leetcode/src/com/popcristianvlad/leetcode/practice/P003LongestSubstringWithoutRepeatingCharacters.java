@@ -3,7 +3,7 @@ package com.popcristianvlad.leetcode.practice;
 import java.util.HashMap;
 import java.util.Map;
 
-public class P03LongestSubstringWithoutRepeatingCharacters {
+public class P003LongestSubstringWithoutRepeatingCharacters {
 
     private static int lengthOfLongestSubstring(String s) {
         char[] array = s.toCharArray();
