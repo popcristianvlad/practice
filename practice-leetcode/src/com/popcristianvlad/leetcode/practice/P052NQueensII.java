@@ -52,7 +52,7 @@ public class P052NQueensII {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P52NQueensII().totalNQueens(4));
-        System.out.println(new P52NQueensII().totalNQueens(1));
+        System.out.println(new P052NQueensII().totalNQueens(4));
+        System.out.println(new P052NQueensII().totalNQueens(1));
     }
 }

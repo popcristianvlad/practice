@@ -76,8 +76,8 @@ public class P051NQueens {
     }
 
     public static void main(String[] args) {
-        List<List<String>> result1 = new P51NQueens().solveNQueens(4);
-        List<List<String>> result2 = new P51NQueens().solveNQueens(1);
+        List<List<String>> result1 = new P051NQueens().solveNQueens(4);
+        List<List<String>> result2 = new P051NQueens().solveNQueens(1);
 
         for (List<String> list : result1) {
             for (String line : list) {

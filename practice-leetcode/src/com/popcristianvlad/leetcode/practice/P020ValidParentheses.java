@@ -54,10 +54,10 @@ public class P020ValidParentheses {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P20ValidParentheses().isValid("()"));
-        System.out.println(new P20ValidParentheses().isValid("()[]{}"));
-        System.out.println(new P20ValidParentheses().isValid("(]"));
-        System.out.println(new P20ValidParentheses().isValid("([)]"));
-        System.out.println(new P20ValidParentheses().isValid("{[]}"));
+        System.out.println(new P020ValidParentheses().isValid("()"));
+        System.out.println(new P020ValidParentheses().isValid("()[]{}"));
+        System.out.println(new P020ValidParentheses().isValid("(]"));
+        System.out.println(new P020ValidParentheses().isValid("([)]"));
+        System.out.println(new P020ValidParentheses().isValid("{[]}"));
     }
 }
