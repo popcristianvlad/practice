@@ -1,5 +1,5 @@
 
 Run the server:
 ```sh
-node js
+node server.js
 ```
