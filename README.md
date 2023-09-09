@@ -8,10 +8,10 @@ This repo contains various code practicing activities I enjoy doing.
     .
     ├── codeacademy-learn-go          # Course: Codecademy - Learn Go
     ├── codeacademy-learn-python-3    # Course: Codecademy - Learn Python 3
-    ├── learning-ml                   # Learning Machine Learning
-    ├── learning-nodejs               # Learning NodeJS
-    ├── learning-python               # Learning Python
-    ├── practice-leetcode             # Practice LeetCode
+    ├── learning-ml                   # Learning: Machine Learning
+    ├── learning-nodejs               # Learning: NodeJS
+    ├── learning-python               # Learning: Python
+    ├── practice-leetcode             # Practice: LeetCode
     ├── sample-java-security          # Sample: Java Security
     ├── sample-spring-graphql         # Sample: Spring GraphQL
 
