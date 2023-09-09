@@ -1,0 +1,1 @@
+select long_w from (select round(long_w, 4) as long_w from station where lat_n < 137.2345 order by lat_n desc) where rownum <= 1;
