@@ -13,6 +13,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── learning-python               # Learning Python
     ├── practice-leetcode             # Practice LeetCode
     ├── sample-java-security          # Sample: Java Security
+    ├── sample-spring-graphql         # Sample: Spring GraphQL
 
 ## Profiles
 * [HackerRank](https://www.hackerrank.com/popcristianvlad)
