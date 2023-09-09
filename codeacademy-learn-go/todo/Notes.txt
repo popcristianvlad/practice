@@ -1,0 +1,298 @@
+---------------
+Variables:
+
+var stationName string
+var nextTrainTime int8
+var isUptownTrain bool
+
+stationName = "Union Square"
+nextTrainTime = 12
+isUptownTrain = false
+
+fmt.Println("Current station:", stationName)
+fmt.Println("Next train:", nextTrainTime, "minutes")
+fmt.Println("Is uptown:", isUptownTrain)
+---------------
+Constants:
+
+const funFact = "Hummingbirds' wings can beat up to 200 times a second."
+
+!! name the constants using camelCase or PascalCase
+---------------
+Basic Data Types in Go:
+	int     -> e.g. 11, 82139, -1581
+	float   -> e.g. 42.402, -0.075
+	complex -> e.g. 3i, 7 + 2i, -14 -.05i
+---------------
+Basic Numeric Types in Go
+
+Data Type -> Memory Usage - Number of Bits -> Minimum Value -> Maximum Value
+bool -> 1 -> 0 (false) -> 1 (true)
+int8 -> 8 -> -128 -> 127
+int16 -> 16 -> -32,768 -> 32,767
+int32 -> 32 -> -2,147,483,648 -> 2,147,483,647
+int64 -> 64 -> -9,223,372,036,854,775,808 -> 9,223,372,036,854,775,807
+uint8 -> 8 -> 0 -> 255
+uint16 -> 16 -> 0  -> 65,535
+uint32 -> 32 -> 0 -> 4,294,967,295
+uint64 -> 64 -> 0 -> 18,446,744,073,709,551,615
+
+floats and complex numbers do not have minimum or maximum values; the difference between float32 and float63 reflects how much data it uses to ensure the precision of the value
+---------------
+var kilometersToMars int32 = 62100000
+var description string
+description = nameOfSong + " is by: " + nameOfArtist + "."
+---------------
+Default values:
+	uint32: 0
+	float32: 0
+	string: ""
+	bool: false
+---------------
+Inferring Types
+	nuclearMeltdownOccurring := true
+	radiumInGroundWater := 4.521
+	daysSinceLastWorkplaceCatastrophe := 0
+	externalMessage := "Everything is normal. Keep calm and carry on."
+	
+	or
+	
+	var nuclearMeltdownOccurring = true
+	var radiumInGroundWater = 4.521
+	var daysSinceLastWorkplaceCatastrophe = 0
+	var externalMessage = "Everything is normal. Keep calm and carry on."
+---------------
+Default int type:
+	var abc int <- Go decides to use int32 or int64 based on the architecture of your computer (32-bit or 64-bit)
+	
+it's recommended to use int
+---------------
+basketTotal += spinachPrice
+or
+basketTotal = basketTotal + spinachPrice
+
+We have:
+	+=
+	-=
+	*=
+	/=
+---------------
+Multiple variable declaration:
+
+var part1, part2 string
+quote, fact := "Bears, Beets, Battlestar Galactica", true
+---------------
+fmt.Println(title, "written by", writer, "drawn by", artist)
+---------------
+fmt - pronounced "fumpt"
+---------------
+fmt.Println("Can", "you", "tell", "the", "difference?")
+fmt.Print("Between", "these", "two", "methods?")
+fmt.Print("Anything odd about", "the spacing? \n")
+fmt.Println("Don't worry if you can't spot it, we'll go through this together!")
+
+fmt.Print()
+	- doesn't have default spacing
+	- doesn't add new line
+---------------
+fmt.Printf("Is %v your final answer?", guess)
+%v - verb
+
+specialNum := 42
+fmt.Printf("This value's type is %T.", specialNum)
+// Prints: This value's type is int.
+%T - the type of the argument
+
+votingAge := 18
+fmt.Printf("You must be %d years old to vote.", votingAge)
+// Prints: You must be 18 years old to vote. 
+%d - number
+
+gpa := 3.8
+fmt.Printf("You're averaging: %f.", gpa)
+// Prints: You're averaging 3.800000.
+%f - float
+
+gpa := 3.8
+fmt.Printf("You're averaging: %.2f.", gpa)
+// Prints: You're averaging 3.80.
+%.2f - float
+---------------
+grade := "100"
+compliment := "Great job!"
+teacherSays := fmt.Sprint("You scored a ", grade, " on the test! ", compliment)
+ 
+fmt.Print(teacherSays)
+// Prints: You scored a 100 on the test! Great job!
+
+quote = fmt.Sprintln("Look ma,", "no spaces!")
+fmt.Print(quote) // Prints Look ma, no spaces!
+---------------
+correctAns := "A"
+answer := fmt.Sprintf("And the correct answer is… %v!", correctAns)
+ 
+fmt.Print(answer) // Prints: And the correct answer is… A!
+---------------
+fmt.Println("How are you doing?") 
+ 
+var response string 
+fmt.Scan(&response)
+ 
+fmt.Printf("I'm %v.", response) 
+---------------
+if position == 1 {
+  fmt.Println("You won the gold!")
+} else if position == 2 {
+  fmt.Println("You got the silver medal.")
+} else if position == 3 {
+  fmt.Println("Great job on bronze.")
+} else {
+  fmt.Println("Sorry, better luck next time?")
+}
+---------------
+== Is equal to
+!= Is NOT equal to
+< Less than
+> Greater than
+<= Less than or equal to
+>= Greater than or eqaul to
+&& And
+|| Or
+! not
+---------------
+clothingChoice := "sweater"
+ 
+switch clothingChoice {
+case "shirt":
+  fmt.Println("We have shirts in S and M only.")
+case "polos":
+  fmt.Println("We have polos in M, L, and XL.")
+case "sweater":
+  fmt.Println("We have sweaters in S, M, L, and XL.")
+case "jackets":
+  fmt.Println("We have jackets in all sizes.")
+default:
+  fmt.Println("Sorry, we don't carry that")
+}
+---------------
+Scoped Short Declaration Statement
+
+x := 8
+y := 9
+if product := x * y; product > 60 {
+  fmt.Println(product, "  is greater than 60")
+}
+
+switch season := "summer" ; season {
+case "summer":
+  fmt.Println("Go out and enjoy the sun!")
+}
+---------------
+import (
+  "math/rand"
+  "fmt"
+)
+
+func main() {
+  fmt.Println(rand.Intn(100))
+}
+---------------
+import (
+  "fmt"
+  "math/rand"
+  "time"
+)
+ 
+func main() {
+  rand.Seed(time.Now().UnixNano())
+  fmt.Println(rand.Intn(100))
+}
+---------------
+func doubleNum(num int) int {
+  return num * 2
+}
+---------------
+math.Log2(math.Sqrt(math.Tanh(x)))
+---------------
+Multiple Return Values
+
+func GPA(midtermGrade float32, finalGrade float32) (string, float32) {
+  averageGrade := (midtermGrade + finalGrade) / 2
+  var gradeLetter string
+  if averageGrade > 90 {
+    gradeLetter = "A"
+  } else if averageGrade > 80 {
+    gradeLetter = "B"
+  } else if averageGrade > 70 {
+    gradeLetter = "C"
+  } else if averageGrade > 60 {
+    gradeLetter = "D"
+  } else {
+    gradeLetter = "F"
+  }
+ 
+  return gradeLetter, averageGrade 
+}
+
+myGrade, myAverage = GPA(myMidterm, myFinal)
+---------------
+'defer' keyword tells Go to run a function, but at the end of the current function.
+
+func calculateTaxes(revenue, deductions, credits float64) float64 {
+  defer fmt.Println("Taxes Calculated!")
+  taxRate := .06143
+  fmt.Println("Calculating Taxes")
+ 
+  if deductions == 0 || credits == 0 {
+    return revenue * taxRate
+  }
+ 
+ 
+  taxValue := (revenue - (deductions * credits)) * taxRate
+  if taxValue >= 0 {
+    return taxValue
+  } else {
+    return 0
+  }
+}
+---------------
+Go is a pass-by-value language. In other words, we’re passing functions the value of an argument
+---------------
+x := "My very first address"
+fmt.Println(&x) // Prints 0x414020
+---------------
+var pointerForInt *int
+ 
+the * operator signifies that this variable will store an address and the int portion means that the address contains an integer value.
+---------------
+var pointerForInt *int
+ 
+minutes := 525600
+ 
+pointerForInt = &minutes
+ 
+fmt.Println(pointerForInt) // Prints 0xc000018038
+---------------
+minutes := 55
+ 
+pointerForInt := &minutes
+---------------
+Well, we can actually use our pointer to access the address and change its value! This action is called dereferencing or indirecting.
+
+lyrics := "Moments so dear" 
+pointerForStr := &lyrics
+ 
+*pointerForStr = "Journeys to plan" 
+ 
+fmt.Println(lyrics) // Prints: Journeys to plan
+---------------
+func addHundred (numPtr *int) {
+  *numPtr += 100
+}
+
+func main() {
+  x := 1
+  addHundred(&x)
+  fmt.Println(x) // Prints 101
+}
+---------------
