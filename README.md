@@ -12,6 +12,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── learning-nodejs               # Learning NodeJS
     ├── learning-python               # Learning Python
     ├── practice-leetcode             # Practice LeetCode
+    ├── sample-java-security          # Sample: Java Security
 
 ## Profiles
 * [HackerRank](https://www.hackerrank.com/popcristianvlad)
