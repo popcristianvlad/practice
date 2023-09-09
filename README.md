@@ -11,6 +11,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── learning-ml                   # Learning: Machine Learning
     ├── learning-nodejs               # Learning: NodeJS
     ├── learning-python               # Learning: Python
+    ├── practice-algorithms           # Practice: Algorithms
     ├── practice-leetcode             # Practice: LeetCode
     ├── sample-java-concurrency       # Sample: Java Concurrency
     ├── sample-java-security          # Sample: Java Security
