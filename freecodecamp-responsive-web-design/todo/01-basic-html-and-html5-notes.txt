@@ -1,0 +1,32 @@
+1. Basic HTML and HTML5
+- header tags: h1->h6
+- HTML5 introduces more descriptive HTML tags: main, header, footer, nav, video, article, section and others
+- all img elements must have an alt attribute. The text inside an alt attribute is used for screen readers to improve accessibility and is displayed if the image fails to load.
+- note: If the image is purely decorative, using an empty alt attribute is a best practice.
+- <a> - anchor
+- a (anchor) elements can also be used to create internal links to jump to different sections within a webpage.
+- to create an internal link, you assign a link's href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually further down the page
+- <a href="https://www.bit.ly/fcc-relaxing-cat" target="_blank">cat photo</a> -> the link will open in a new window tab
+- replacing the href attribute value with a #, also known as a hash symbol, creates a dead link.
+- <ul> -> unordered list
+- <ol> -> ordered list
+- <li> -> list element
+- note that input elements are self-closing:
+	<input type="text" placeholder="cat photo URL">
+- form element:
+	<form action="/url-where-you-want-to-submit-form-data">
+	  <input>
+	</form>
+- if you wanted to make a text input field required, you can just add the attribute required within your input element, like this: 
+	<input type="text" required>
+- all related radio buttons should have the same name attribute to create a radio button group. 
+- radio button:
+	<label> 
+	  <input type="radio" name="indoor-outdoor">Indoor 
+	</label>
+- radio button:
+	<input id="indoor" type="radio" name="indoor-outdoor">
+	<label for="indoor">Indoor</label>
+- inputs of type radio and checkbox report their values from the value attribute.
+- you can set a checkbox or radio button to be checked by default using the checked attribute.
+- <!DOCTYPE html> -> instructs the browser to use html5

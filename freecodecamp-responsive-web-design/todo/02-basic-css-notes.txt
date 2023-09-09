@@ -1,0 +1,61 @@
+2. Basic CSS
+- in line: 
+	<h2 style="color: red;">CatPhotoApp</h2>
+- not in line
+	<style>
+		h2 {
+			color: red;
+			font-size: 30px;
+			font-family: Helvetica, monospace;
+		}
+	</style>
+- Google Fonts is a free library of web fonts that you can use in your CSS by referencing the font's URL:
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+- the <link> element allows authors to link their document to other resources.
+- border style:
+	<style>
+	  .thin-red-border {
+		border-color: red;
+		border-width: 5px;
+		border-style: solid;
+		border-radius: 10px;
+	  }
+	</style>
+- id is not reusable and should only be applied to one element.
+- clockwise notation: padding: 10px 20px 10px 20px; (top, right, bottom, left)
+- attribute selector:
+	[type='radio'] {
+		margin: 20px 0px 20px 0px;
+	}
+- the two main types of length units are absolute and relative. Absolute units tie to physical units of length. For example, in and mm refer to inches and millimeters, respectively. Absolute length units approximate the actual measurement on a screen, but there are some differences depending on a screen's resolution.
+- relative units, such as em or rem, are relative to another length value. For example, em is based on the size of an element's font. If you use it to set the font-size property itself, it's relative to the parent's font-size.
+- the order of the class declarations in the <style> section is what is important. The second declaration will always take precedence over the first
+- class="class1 class2" - the order in this list doesn't matter
+- override class declarations with Id - the id takes precedence
+- override class declarations with Inline Styles - inline style takes precendence
+- override all other styles by using Important:
+	color: red !important;
+- red's hex code #FF0000 can be shortened to #F00. This shortened form gives one digit for red, one digit for green, and one digit for blue.
+- rgb notation:
+	rgb(0, 0, 0);
+	rgb(255, 255, 255);
+- declare CSS variable:
+	.some-class {
+		--penguin-skin: gray;
+	}
+- use CSS variable:
+	background: var(--penguin-skin);
+- when working with CSS you will likely run into browser compatibility issues at some point. This is why it's important to provide browser fallbacks to avoid potential problems:
+	background: var(--penguin-skin, black);
+- when you create a variable, it is available for you to use inside the selector in which you create it. It also is available in any of that selector's descendants. This happens because CSS variables are inherited, just like ordinary properties.
+- :root is a pseudo-class selector that matches the root element of the document, usually the html element. By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet:
+	:root {
+		--red-color: red;
+	}
+- when you create your variables in :root they will set the value of that variable for the whole page. You can then over-write these variables by setting them again within a specific element.
+- using media queries (when your screen is smaller or larger than your media query break point, you can change the value of a variable, and it will apply its style wherever it is used):
+	@media (max-width: 350px) {
+		:root {
+			--penguin-skin: black;
+		}
+	}

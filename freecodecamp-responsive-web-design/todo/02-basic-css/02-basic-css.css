@@ -1,0 +1,106 @@
+h2 {
+	color: red;
+	font-size: 30px;
+	font-family: Helvetica, monospace;
+}
+
+.red-text {
+	color: red;
+}
+
+.smaller-image {
+	width: 100px;
+}
+
+.thick-green-border {
+	border-color: green;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 10px;
+	border-radius: 50%;
+}
+
+.green-background {
+	background-color: green;
+}
+
+#cat-photo-form {
+	background-color: green;
+}
+
+.blue-box {
+	background-color: blue;
+	color: #fff;
+	padding: 20px;
+	margin: 20px;
+}
+
+.red-box {
+	background-color: crimson;
+	color: #fff;
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+}
+
+.red-box {
+	background-color: crimson;
+	color: #fff;
+	margin-top: 40px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+
+.pink-text {
+	color: pink !important;
+}
+
+.dodger-blue-text {
+	color: #1E90FF;
+}
+
+body {
+	background-color: rgb(255, 165, 0);
+}
+
+[type='radio'] {
+	margin: 20px 0px 20px 0px;
+}
+
+.penguin {
+	--penguin-skin: gray;
+	--penguin-belly: white;
+	--penguin-beak: orange;
+	position: relative;
+	margin: auto;
+	display: block;
+	margin-top: 5%;
+	width: 300px;
+	height: 300px;
+}
+
+.penguin-top {
+	top: 10%;
+	left: 25%;
+	background: var(--penguin-skin, gray);
+	width: 50%;
+	height: 45%;
+	border-radius: 70% 70% 60% 60%;
+}
+
+.red-box {
+	background: red;
+	background: var(--red-color);
+	height: 200px;
+	width: 200px;
+}
+
+@media (max-width: 350px) {
+	 :root {
+		/* Only change code below this line */
+		--penguin-size: 200px;
+		/* Only change code above this line */
+	}
+}
