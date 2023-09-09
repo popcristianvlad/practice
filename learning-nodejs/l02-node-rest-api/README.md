@@ -1,6 +1,6 @@
 Init the server:
 ```sh
-node server.js
+node init
 ```
 
 Run the server:
