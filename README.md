@@ -12,6 +12,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── learning-nodejs               # Learning: NodeJS
     ├── learning-python               # Learning: Python
     ├── practice-leetcode             # Practice: LeetCode
+    ├── sample-java-concurrency       # Sample: Java Concurrency
     ├── sample-java-security          # Sample: Java Security
     ├── sample-spring-graphql         # Sample: Spring GraphQL
 
