@@ -27,6 +27,7 @@ This repo contains various code practicing activities I enjoy doing.
 * [LeetCode](https://leetcode.com/popcristianvlad/)
 * [StackShare](https://stackshare.io/popcristianvlad/)
 * [WakaTime](https://wakatime.com/@popcristianvlad)
+* [GitHub Gist](https://gist.github.com/popcristianvlad)
 * [Codeacademy](https://www.codecademy.com/profiles/popcristianvlad)
 * [freeCodeCamp](https://www.freecodecamp.org/popcristianvlad)
 
