@@ -15,6 +15,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── practice-algorithms                 # Practice: Algorithms
     ├── practice-hackerrank                 # Practice: HackerRank
     ├── practice-leetcode                   # Practice: LeetCode
+    ├── sample-gof-design-patterns-in-java  # Sample: GOF Design Patterns in Java
     ├── sample-java-concurrency             # Sample: Java Concurrency
     ├── sample-java-security                # Sample: Java Security
     ├── sample-quickfixj                    # Sample: QuickFIX/J
