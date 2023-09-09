@@ -20,7 +20,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── sample-java-security                # Sample: Java Security
     ├── sample-quickfixj                    # Sample: QuickFIX/J
     ├── sample-spring-graphql               # Sample: Spring GraphQL
-    ├── sample-tour-of-heros                # Sample: Spring GraphQL
+    ├── sample-tour-of-heros                # Sample: Tour of Heroes
 
 ## Profiles
 * [HackerRank](https://www.hackerrank.com/popcristianvlad)
