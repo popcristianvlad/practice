@@ -34,4 +34,4 @@ This repo contains various code practicing activities I enjoy doing.
 ## Courses
 * [Codecademy - Learn Go](https://www.codecademy.com/learn/learn-go)
 * [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-* [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+* [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
