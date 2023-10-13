@@ -9,7 +9,8 @@ This repo contains various code practicing activities I enjoy doing.
     .
     ├── codeacademy-learn-go                # Course: Codecademy - Learn Go
     ├── codeacademy-learn-python-3          # Course: Codecademy - Learn Python 3
-    ├── conference-devoxx-ukraine-2023      # Conference: Devoxx Ukraine 2023 - 22 September
+    └── conference-devoxx-ukraine-2023      # Conference: Devoxx Ukraine 2023 - 22 September
+        └── sailing-modern-java             # Sailing Modern Java | Piotr Przybyl | Devoxx Ukraine 2023
     ├── conference-spring-io-2023           # Conference: Spring I/O 2023 - 18-19 May
     ├── freecodecamp-responsive-web-design  # Course: freeCodeCamp - Responsive Web Design
     ├── learning-ml                         # Learning: Machine Learning
