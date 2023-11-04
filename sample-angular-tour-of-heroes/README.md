@@ -49,3 +49,9 @@ ng serve --open
 ```
 ng generate component heroes
 ```
+
+4. Generate the heroes detail component
+
+```
+ng generate component hero-detail
+```
