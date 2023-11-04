@@ -3,13 +3,13 @@ import {RouterModule} from "@angular/router";
 import {HomeComponent} from './home/home.component';
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
-  imports: [
-    RouterModule,
-    HomeComponent
-  ],
-  template: `
+    selector: 'app-root',
+    standalone: true,
+    imports: [
+        RouterModule,
+        HomeComponent
+    ],
+    template: `
       <main>
           <a [routerLink]="['/']">
               <header class="brand-name">
@@ -21,8 +21,8 @@ import {HomeComponent} from './home/home.component';
           </section>
       </main>
   `,
-  styleUrls: ['./app.component.css'],
+    styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'homes';
+    title = 'homes';
 }
