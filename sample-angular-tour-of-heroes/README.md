@@ -73,3 +73,9 @@ ng generate component messages
 ```
 ng generate service message
 ```
+
+8. Generate the dashboard component
+
+```
+ng generate component dashboard
+```
