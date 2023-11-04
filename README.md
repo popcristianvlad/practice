@@ -7,25 +7,26 @@ This repo contains various code practicing activities I enjoy doing.
 ## Directory Structure
 
     .
-    ├── codeacademy-learn-go                # Course: Codecademy - Learn Go
-    ├── codeacademy-learn-python-3          # Course: Codecademy - Learn Python 3
-    └── conference-devoxx-ukraine-2023      # Conference: Devoxx Ukraine 2023 - 22 September
-        └── sailing-modern-java             # Sailing Modern Java | Piotr Przybyl | Devoxx Ukraine 2023
-    ├── conference-spring-io-2023           # Conference: Spring I/O 2023 - 18-19 May
-    ├── freecodecamp-responsive-web-design  # Course: freeCodeCamp - Responsive Web Design
-    ├── learning-ml                         # Learning: Machine Learning
-    ├── learning-nodejs                     # Learning: NodeJS
-    ├── learning-python                     # Learning: Python
-    ├── practice-algorithms                 # Practice: Algorithms
-    ├── practice-hackerrank                 # Practice: HackerRank
-    ├── practice-leetcode                   # Practice: LeetCode
-    ├── sample-gof-design-patterns-in-java  # Sample: GOF Design Patterns in Java
-    ├── sample-java-17-features             # Sample: Java 17 Features
-    ├── sample-java-concurrency             # Sample: Java Concurrency
-    ├── sample-java-security                # Sample: Java Security
-    ├── sample-quickfixj                    # Sample: QuickFIX/J
-    ├── sample-spring-graphql               # Sample: Spring GraphQL
-    └── sample-tour-of-heros                # Sample: Tour of Heroes
+    ├── codeacademy-learn-go                             # Course: Codecademy - Learn Go
+    ├── codeacademy-learn-python-3                       # Course: Codecademy - Learn Python 3
+    └── conference-devoxx-ukraine-2023                   # Conference: Devoxx Ukraine 2023 - 22 September
+        └── sailing-modern-java                          # Sailing Modern Java | Piotr Przybyl | Devoxx Ukraine 2023
+    ├── conference-spring-io-2023                        # Conference: Spring I/O 2023 - 18-19 May
+    ├── freecodecamp-responsive-web-design               # Course: freeCodeCamp - Responsive Web Design
+    ├── learning-ml                                      # Learning: Machine Learning
+    ├── learning-nodejs                                  # Learning: NodeJS
+    ├── learning-python                                  # Learning: Python
+    ├── practice-algorithms                              # Practice: Algorithms
+    ├── practice-hackerrank                              # Practice: HackerRank
+    ├── practice-leetcode                                # Practice: LeetCode
+    ├── sample-angular-first-app-tutorial-angular-homes  # Sample Angular: First App Tutorial - Angular Homes
+    ├── sample-gof-design-patterns-in-java               # Sample: GOF Design Patterns in Java
+    ├── sample-java-17-features                          # Sample: Java 17 Features
+    ├── sample-java-concurrency                          # Sample: Java Concurrency
+    ├── sample-java-security                             # Sample: Java Security
+    ├── sample-quickfixj                                 # Sample: QuickFIX/J
+    ├── sample-spring-graphql                            # Sample: Spring GraphQL
+    └── sample-tour-of-heros                             # Sample: Tour of Heroes
 
 ## Profiles
 
