@@ -37,3 +37,9 @@ ng generate component home --standalone --inline-template --skip-tests
 ```
 ng generate component housingLocation --standalone --inline-template --skip-tests
 ```
+
+7. Create housing location interface:
+
+```
+ng generate interface housinglocation
+```
