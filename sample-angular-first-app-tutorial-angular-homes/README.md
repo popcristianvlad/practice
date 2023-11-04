@@ -19,3 +19,9 @@ npm list -g
 ```
 
 3. Download the starting code
+4. Run
+
+```
+npm install --force
+ng serve
+```
