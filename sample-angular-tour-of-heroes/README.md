@@ -79,3 +79,21 @@ ng generate service message
 ```
 ng generate component dashboard
 ```
+
+9. Install angular-in-memory-web-api
+
+```
+npm install angular-in-memory-web-api --save
+```
+
+10. Generate InMemoryData service
+
+```
+ng generate service InMemoryData
+```
+
+11. Generate hero-search component
+
+```
+ng generate component hero-search
+```
