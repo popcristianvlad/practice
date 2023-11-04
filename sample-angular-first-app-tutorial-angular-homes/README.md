@@ -31,3 +31,9 @@ ng serve
 ```
 ng generate component home --standalone --inline-template --skip-tests
 ```
+
+6. Create housing location component:
+
+```
+ng generate component housingLocation --standalone --inline-template --skip-tests
+```
