@@ -1,21 +1,21 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+import {ComponentFixture, TestBed} from '@angular/core/testing';
 
-import { HeroSearchComponent } from './hero-search.component';
+import {HeroSearchComponent} from './hero-search.component';
 
 describe('HeroSearchComponent', () => {
-  let component: HeroSearchComponent;
-  let fixture: ComponentFixture<HeroSearchComponent>;
+    let component: HeroSearchComponent;
+    let fixture: ComponentFixture<HeroSearchComponent>;
 
-  beforeEach(() => {
-    TestBed.configureTestingModule({
-      declarations: [HeroSearchComponent]
+    beforeEach(() => {
+        TestBed.configureTestingModule({
+            declarations: [HeroSearchComponent]
+        });
+        fixture = TestBed.createComponent(HeroSearchComponent);
+        component = fixture.componentInstance;
+        fixture.detectChanges();
     });
-    fixture = TestBed.createComponent(HeroSearchComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
-  });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+    it('should create', () => {
+        expect(component).toBeTruthy();
+    });
 });
