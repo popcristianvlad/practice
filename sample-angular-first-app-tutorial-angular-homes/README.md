@@ -17,3 +17,5 @@ $ npm -v
 npm install -g @angular/cli
 npm list -g
 ```
+
+3. Download the starting code
