@@ -55,3 +55,21 @@ ng generate service housing --skip-tests
 ```
 ng generate component details --standalone --inline-template --skip-tests
 ```
+
+10. Install json-server:
+
+```
+npm install -g json-server
+```
+
+11. Watch the db.json file:
+
+```
+json-server --watch db.json
+```
+
+12. Access:
+
+```
+http://localhost:3000/locations
+```
