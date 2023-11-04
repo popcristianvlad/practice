@@ -55,3 +55,21 @@ ng generate component heroes
 ```
 ng generate component hero-detail
 ```
+
+5. Generate the hero service
+
+```
+ng generate service hero
+```
+
+6. Generate the messages component
+
+```
+ng generate component messages
+```
+
+7. Generate the message service
+
+```
+ng generate service message
+```
