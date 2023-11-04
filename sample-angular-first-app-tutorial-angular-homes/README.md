@@ -43,3 +43,9 @@ ng generate component housingLocation --standalone --inline-template --skip-test
 ```
 ng generate interface housinglocation
 ```
+
+8. Create housing service:
+
+```
+ng generate service housing --skip-tests
+```
