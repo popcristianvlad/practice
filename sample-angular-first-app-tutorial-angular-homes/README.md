@@ -25,3 +25,9 @@ npm list -g
 npm install --force
 ng serve
 ```
+
+5. Create home component:
+
+```
+ng generate component home --standalone --inline-template --skip-tests
+```
