@@ -20,13 +20,13 @@ This repo contains various code practicing activities I enjoy doing.
     ├── practice-hackerrank                              # Practice: HackerRank
     ├── practice-leetcode                                # Practice: LeetCode
     ├── sample-angular-first-app-tutorial-angular-homes  # Sample Angular: First App Tutorial - Angular Homes
+    ├── sample-angular-tour-of-heros                     # Sample Angular: Tour of Heroes
     ├── sample-gof-design-patterns-in-java               # Sample: GOF Design Patterns in Java
     ├── sample-java-17-features                          # Sample: Java 17 Features
     ├── sample-java-concurrency                          # Sample: Java Concurrency
     ├── sample-java-security                             # Sample: Java Security
     ├── sample-quickfixj                                 # Sample: QuickFIX/J
-    ├── sample-spring-graphql                            # Sample: Spring GraphQL
-    └── sample-tour-of-heros                             # Sample: Tour of Heroes
+    └── sample-spring-graphql                            # Sample: Spring GraphQL
 
 ## Profiles
 

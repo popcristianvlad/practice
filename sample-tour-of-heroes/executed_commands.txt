@@ -1,1 +1,0 @@
-ng new sample-tour-of-heroes
