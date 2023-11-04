@@ -1,6 +1,6 @@
 import { browser, element, by, logging } from 'protractor';
 
-describe('first-app-lesson-00 app', () => {
+describe('sample-angular-first-app-tutorial-angular-homes app', () => {
 
   beforeEach(() => browser.get(''));
 
