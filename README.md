@@ -19,6 +19,7 @@ This repo contains various code practicing activities I enjoy doing.
     ├── practice-algorithms                              # Practice: Algorithms
     ├── practice-hackerrank                              # Practice: HackerRank
     ├── practice-leetcode                                # Practice: LeetCode
+    ├── sample-angular-template-driven-form              # Sample Angular: Building a template-driven form
     ├── sample-angular-first-app-tutorial-angular-homes  # Sample Angular: First App Tutorial - Angular Homes
     ├── sample-angular-tour-of-heros                     # Sample Angular: Tour of Heroes
     ├── sample-gof-design-patterns-in-java               # Sample: GOF Design Patterns in Java
