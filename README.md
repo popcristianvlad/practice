@@ -44,3 +44,9 @@ This repo contains various code practicing activities I enjoy doing.
 * [Codecademy - Learn Go](https://www.codecademy.com/learn/learn-go)
 * [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 * [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+## Tutorials
+
+* [Angular - Build your first Angular app](https://angular.io/tutorial/first-app)
+* [Angular - Tour of Heroes](https://angular.io/tutorial/tour-of-heroes)
+* [Angular - Building a template-driven form](https://angular.io/guide/forms)
