@@ -95,8 +95,15 @@ Implementations for various HackerRank problems.
 
 ## Python
 
-| Subcategory | Difficulty | Challenge | Solution |
-|:-----------:|:----------:|:---------:|:--------:|
+| Subcategory  | Difficulty |                                             Challenge                                             |                                       Solution                                       |
+|:------------:|:----------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+| Introduction |    Easy    |  [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)  |              [py-hello-world.py](python/introduction/py-hello-world.py)              |
+| Introduction |    Easy    |            [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)             |                  [py-if-else.py](python/introduction/py-if-else.py)                  |
+| Introduction |    Easy    | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [python-arithmetic-operators.py](python/introduction/python-arithmetic-operators.py) |
+| Introduction |    Easy    |         [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)         |             [python-division.py](python/introduction/python-division.py)             |
+| Introduction |    Easy    |                [Loops](https://www.hackerrank.com/challenges/python-loops/problem)                |                [python-loops.py](python/introduction/python-loops.py)                |
+| Introduction |    Easy    |           [Print Function](https://www.hackerrank.com/challenges/python-print/problem)            |                [python-print.py](python/introduction/python-print.py)                |
+| Introduction |   Medium   |        [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)         |            [write-a-function.py](python/introduction/write-a-function.py)            |
 
 ## Linux Shell
 
