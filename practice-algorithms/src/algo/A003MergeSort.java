@@ -1,6 +1,6 @@
-package com.popcristianvlad.algorithms.practice;
+package algo;
 
-public class MergeSort {
+public class A003MergeSort {
 
     private static void mergeSort(int[] arr) {
         mergeSort(arr, 0, arr.length - 1);

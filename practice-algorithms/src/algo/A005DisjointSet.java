@@ -1,4 +1,4 @@
-package com.popcristianvlad.algorithms.practice;
+package algo;
 
 class DisjointUnionSets {
 
@@ -44,7 +44,7 @@ class DisjointUnionSets {
     }
 }
 
-public class DisjointSet {
+public class A005DisjointSet {
 
     public static void main(String[] args) {
         DisjointUnionSets dus = new DisjointUnionSets(5);

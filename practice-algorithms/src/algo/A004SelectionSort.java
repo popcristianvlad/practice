@@ -1,6 +1,6 @@
-package com.popcristianvlad.algorithms.practice;
+package algo;
 
-public class SelectionSort {
+public class A004SelectionSort {
 
     private static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {

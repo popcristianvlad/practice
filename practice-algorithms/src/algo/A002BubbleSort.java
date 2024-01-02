@@ -1,6 +1,6 @@
-package com.popcristianvlad.algorithms.practice;
+package algo;
 
-public class BubbleSort {
+public class A002BubbleSort {
 
     private static void bubbleSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {

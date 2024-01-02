@@ -1,6 +1,6 @@
-package com.popcristianvlad.algorithms.practice;
+package algo;
 
-public class EuclidsAlgorithm {
+public class A001EuclidsAlgorithm {
 
     private static int gcd(int a, int b) {
         if (a == 0)

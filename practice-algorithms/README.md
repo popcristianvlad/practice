@@ -6,10 +6,10 @@ Implementations for various well-known algorithms.
 
 ## Algorithms
 
-| Algorithm | Solution |
-|:---------:|:--------:|
-|Euclid's Algorithm|[EuclidsAlgorithm.java](src/com/popcristianvlad/algorithms/practice/EuclidsAlgorithm.java)|
-|Bubble Sort|[BubbleSort.java](src/com/popcristianvlad/algorithms/practice/BubbleSort.java)|
-|Merge Sort|[MergeSort.java](src/com/popcristianvlad/algorithms/practice/MergeSort.java)|
-|Selection Sort|[SelectionSort.java](src/com/popcristianvlad/algorithms/practice/SelectionSort.java)|
-|Disjoint Set|[DisjointSet.java](src/com/popcristianvlad/algorithms/practice/DisjointSet.java)|
+| Number |     Algorithm      |                            Solution                             |
+|:------:|:------------------:|:---------------------------------------------------------------:|
+|  001   | Euclid's Algorithm | [A001EuclidsAlgorithm.java](src/algo/A001EuclidsAlgorithm.java) |
+|  002   |    Bubble Sort     |       [A002BubbleSort.java](src/algo/A002BubbleSort.java)       |
+|  003   |     Merge Sort     |        [A003MergeSort.java](src/algo/A003MergeSort.java)        |
+|  004   |   Selection Sort   |    [A004SelectionSort.java](src/algo/A004SelectionSort.java)    |
+|  005   |    Disjoint Set    |      [A005DisjointSet.java](src/algo/A005DisjointSet.java)      |
