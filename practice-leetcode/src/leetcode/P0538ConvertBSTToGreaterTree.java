@@ -1,4 +1,4 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 class TreeNode {
     int val;
@@ -16,7 +16,7 @@ class TreeNode {
     }
 }
 
-public class P538ConvertBSTToGreaterTree {
+public class P0538ConvertBSTToGreaterTree {
 
     private static int currentSum = 0;
 

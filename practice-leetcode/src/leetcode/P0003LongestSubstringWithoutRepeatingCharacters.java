@@ -1,9 +1,9 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class P003LongestSubstringWithoutRepeatingCharacters {
+public class P0003LongestSubstringWithoutRepeatingCharacters {
 
     private static int lengthOfLongestSubstring(String s) {
         char[] array = s.toCharArray();

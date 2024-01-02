@@ -1,9 +1,9 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class P051NQueens {
+public class P0051NQueens {
 
     class Queen {
         int row;
@@ -76,8 +76,8 @@ public class P051NQueens {
     }
 
     public static void main(String[] args) {
-        List<List<String>> result1 = new P051NQueens().solveNQueens(4);
-        List<List<String>> result2 = new P051NQueens().solveNQueens(1);
+        List<List<String>> result1 = new P0051NQueens().solveNQueens(4);
+        List<List<String>> result2 = new P0051NQueens().solveNQueens(1);
 
         for (List<String> list : result1) {
             for (String line : list) {

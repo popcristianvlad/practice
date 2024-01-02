@@ -1,6 +1,6 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
-public class P001TwoSum {
+public class P0001TwoSum {
 
     private static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {

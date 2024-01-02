@@ -1,6 +1,6 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
-public class P004MedianOfTwoSortedArrays {
+public class P0004MedianOfTwoSortedArrays {
 
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int nums1Length = nums1.length;

@@ -1,6 +1,6 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
-public class P013RomanToInteger {
+public class P0013RomanToInteger {
 
     public static int romanToInt(String s) {
         int number = 0;

@@ -1,4 +1,4 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 class ListNode2 {
     int val;
@@ -17,7 +17,7 @@ class ListNode2 {
     }
 }
 
-public class P021MergeTwoSortedLists {
+public class P0021MergeTwoSortedLists {
 
     public static ListNode2 mergeTwoLists(ListNode2 list1, ListNode2 list2) {
         if (list1 == null) {

@@ -1,9 +1,9 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class P020ValidParentheses {
+public class P0020ValidParentheses {
 
     class Queue {
         List<Character> parantheses = new ArrayList<>();
@@ -54,10 +54,10 @@ public class P020ValidParentheses {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P020ValidParentheses().isValid("()"));
-        System.out.println(new P020ValidParentheses().isValid("()[]{}"));
-        System.out.println(new P020ValidParentheses().isValid("(]"));
-        System.out.println(new P020ValidParentheses().isValid("([)]"));
-        System.out.println(new P020ValidParentheses().isValid("{[]}"));
+        System.out.println(new P0020ValidParentheses().isValid("()"));
+        System.out.println(new P0020ValidParentheses().isValid("()[]{}"));
+        System.out.println(new P0020ValidParentheses().isValid("(]"));
+        System.out.println(new P0020ValidParentheses().isValid("([)]"));
+        System.out.println(new P0020ValidParentheses().isValid("{[]}"));
     }
 }

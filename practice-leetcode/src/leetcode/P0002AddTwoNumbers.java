@@ -1,4 +1,4 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
 class ListNode {
 
@@ -18,7 +18,7 @@ class ListNode {
     }
 }
 
-public class P002AddTwoNumbers {
+public class P0002AddTwoNumbers {
 
     private static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode root = new ListNode((l1.val + l2.val) % 10, null);

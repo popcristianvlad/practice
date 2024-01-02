@@ -1,6 +1,6 @@
-package com.popcristianvlad.leetcode.practice;
+package leetcode;
 
-public class P088MergeSortedArray {
+public class P0088MergeSortedArray {
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;
