@@ -1,4 +1,4 @@
-package leetcode;
+package leet;
 
 class ListNode2 {
     int val;
