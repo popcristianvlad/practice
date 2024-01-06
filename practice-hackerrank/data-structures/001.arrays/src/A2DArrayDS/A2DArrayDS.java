@@ -1,4 +1,4 @@
-package com.popcristianvlad.hackerrank.practice.data.structures.arrays.A2DArrayDS;
+package A2DArrayDS;
 
 import java.io.*;
 import java.util.*;
