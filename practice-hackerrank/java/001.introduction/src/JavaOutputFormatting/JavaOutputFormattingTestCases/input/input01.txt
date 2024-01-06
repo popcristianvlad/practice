@@ -1,3 +1,0 @@
-hello 0
-hackerrank 65
-java 10
