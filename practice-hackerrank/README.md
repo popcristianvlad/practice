@@ -213,8 +213,8 @@ Implementations for various HackerRank problems.
 
 | Subcategory | Difficulty |                                          Challenge                                           |                                               Solution                                                |
 |:-----------:|:----------:|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|  Geometry   |    Easy    |      [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game/problem)      |        [rectangular-game.c](mathematics/src/005.geometry/rectangular-game/rectangular-game.c)         |
-|  Geometry   |    Easy    | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting/problem) | [sherlock-and-counting.c](mathematics/src/005.geometry/sherlock-and-counting/sherlock-and-counting.c) |
+|  Geometry   |    Easy    |      [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game/problem)      |        [rectangular-game.c](mathematics/src/005.geometry/rectangular-game.c)         |
+|  Geometry   |    Easy    | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting/problem) | [sherlock-and-counting.c](mathematics/src/005.geometry/sherlock-and-counting.c) |
 
 ## Tutorials
 
