@@ -202,7 +202,7 @@ Implementations for various HackerRank problems.
 
 |              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                                        Solution                                                                                         |
 |:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/009.probability-and-statistics-foundations/src/day-2-basic-probability-puzzles-1/day-2-basic-probability-puzzles-1.txt) |
+| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/009.probability-and-statistics-foundations/src/day-2-basic-probability-puzzles-1.txt) |
 
 ## Functional Programming
 
