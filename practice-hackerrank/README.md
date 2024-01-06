@@ -41,8 +41,8 @@ Implementations for various HackerRank problems.
 
 ## Data Structures
 
-| Subcategory | Difficulty |                                                  Challenge                                                  |                                                                                      Solution                                                                                       |
-|:-----------:|:----------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Subcategory | Difficulty |                                                  Challenge                                                  |                                                            Solution                                                             |
+|:-----------:|:----------:|:-----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
 |   Arrays    |    Easy    |                   [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)                    |                             [arrays-ds.cpp](data-structures/001.arrays/src/arrays-ds/arrays-ds.cpp)                             |
 |   Arrays    |    Easy    |                   [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)                   |                          [A2DArrayDS.java](data-structures/001.arrays/src/A2DArrayDS/A2DArrayDS.java)                           |
 |    Trees    |    Easy    |      [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)      |        [tree-preorder-traversal.cpp](data-structures/003.trees/src/tree-preorder-traversal/tree-preorder-traversal.cpp)         |
@@ -89,8 +89,8 @@ Implementations for various HackerRank problems.
 
 ## C
 
-|      Subcategory       | Difficulty |                                                         Challenge                                                          |                                                                                           Solution                                                                                           |
-|:----------------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      Subcategory       | Difficulty |                                                         Challenge                                                          |                                                                        Solution                                                                        |
+|:----------------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Conditionals and Loops |    Easy    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [sum-of-digits-of-a-five-digit-number.c](c/002.conditionals-and-loops/src/sum-of-digits-of-a-five-digit-number/sum-of-digits-of-a-five-digit-number.c) |
 
 ## Python
@@ -126,8 +126,8 @@ Implementations for various HackerRank problems.
 
 ## Databases
 
-|    Subcategory     | Difficulty |                                                        Challenge                                                         |                                                                                          Solution                                                                                          |
-|:------------------:|:----------:|:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Subcategory     | Difficulty |                                                        Challenge                                                         |                                                                 Solution                                                                 |
+|:------------------:|:----------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 | Relational Algebra |    Easy    | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem) | [basics-of-sets-and-relations-1.txt](databases/001.relational-algebra/basics-of-sets-and-relations-1/basics-of-sets-and-relations-1.txt) |
 | Relational Algebra |    Easy    | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem) | [basics-of-sets-and-relations-2.txt](databases/001.relational-algebra/basics-of-sets-and-relations-2/basics-of-sets-and-relations-2.txt) |
 | Relational Algebra |    Easy    | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem) | [basics-of-sets-and-relations-3.txt](databases/001.relational-algebra/basics-of-sets-and-relations-3/basics-of-sets-and-relations-3.txt) |
@@ -200,9 +200,9 @@ Implementations for various HackerRank problems.
 
 ## Artificial Intelligence
 
-|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                                                                      Solution                                                                                                                       |
-|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/src/com/popcristianvlad/hackerrank/practice/artificial/intelligence/probability-and-statistics-foundations/day-2-basic-probability-puzzles-1/day-2-basic-probability-puzzles-1.txt) |
+|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                                        Solution                                                                                         |
+|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](artificial-intelligence/009.probability-and-statistics-foundations/src/day-2-basic-probability-puzzles-1/day-2-basic-probability-puzzles-1.txt) |
 
 ## Functional Programming
 
