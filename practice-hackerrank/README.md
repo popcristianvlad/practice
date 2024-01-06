@@ -91,7 +91,7 @@ Implementations for various HackerRank problems.
 
 |      Subcategory       | Difficulty |                                                         Challenge                                                          |                                                                                           Solution                                                                                           |
 |:----------------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Conditionals and Loops |    Easy    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [sum-of-digits-of-a-five-digit-number.c](c/src/com/popcristianvlad/hackerrank/practice/c/conditionals-and-loops/sum-of-digits-of-a-five-digit-number/sum-of-digits-of-a-five-digit-number.c) |
+| Conditionals and Loops |    Easy    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [sum-of-digits-of-a-five-digit-number.c](c/002.conditionals-and-loops/src/sum-of-digits-of-a-five-digit-number/sum-of-digits-of-a-five-digit-number.c) |
 
 ## Python
 
