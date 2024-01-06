@@ -107,6 +107,9 @@ Implementations for various HackerRank problems.
 | Basic Data Types |    Easy    |            [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)             |                  [list-comprehensions.py](python/002.basic-data-types/list-comprehensions.py)                  |
 | Basic Data Types |    Easy    | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [find-second-maximum-number-in-a-list.py](python/002.basic-data-types/find-second-maximum-number-in-a-list.py) |
 | Basic Data Types |    Easy    |                    [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)                    |                          [nested-list.py](python/002.basic-data-types/nested-list.py)                          |
+| Basic Data Types |    Easy    |         [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)          |               [finding-the-percentage.py](python/002.basic-data-types/finding-the-percentage.py)               |
+| Basic Data Types |    Easy    |                       [Lists](https://www.hackerrank.com/challenges/python-lists/problem)                       |                         [python-lists.py](python/002.basic-data-types/python-lists.py)                         |
+| Basic Data Types |    Easy    |                      [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                      |                        [python-tuples.py](python/002.basic-data-types/python-tuples.py)                        |
 
 ## Linux Shell
 
