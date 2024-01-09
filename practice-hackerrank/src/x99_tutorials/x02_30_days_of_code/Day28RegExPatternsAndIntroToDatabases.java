@@ -1,7 +1,5 @@
 package x99_tutorials.x02_30_days_of_code;
 
-package day28;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

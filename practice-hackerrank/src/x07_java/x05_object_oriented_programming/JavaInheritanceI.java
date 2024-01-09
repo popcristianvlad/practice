@@ -6,7 +6,7 @@ class Animal {
     }
 }
 
-class Bird extends Animal {
+class Bird extends x07_java.x05_object_oriented_programming.Animal {
     void fly() {
         System.out.println("I am flying");
     }
