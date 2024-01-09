@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.popcristianvlad</groupId>
-    <artifactId>quickfixj-example</artifactId>
+    <artifactId>sample-quickfixj</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
