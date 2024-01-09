@@ -52,6 +52,25 @@ Implementations for various HackerRank problems.
 |    Trees    |    Easy    |                [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)                |                [tree-top-view.cpp](x02-data-structures/003.trees/src/tree-top-view.cpp)                |
 |   Stacks    |   Medium   |            [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)             |           [balanced-brackets.cpp](x02-data-structures/005.stacks/src/balanced-brackets.cpp)            |
 
+## Mathematics
+
+| Subcategory | Difficulty |                                          Challenge                                           |                                      Solution                                       |
+|:-----------:|:----------:|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+|  Geometry   |    Easy    |      [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game/problem)      |      [rectangular-game.c](x03-mathematics/src/005.geometry/rectangular-game.c)      |
+|  Geometry   |    Easy    | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting/problem) | [sherlock-and-counting.c](x03-mathematics/src/005.geometry/sherlock-and-counting.c) |
+
+## Artificial Intelligence
+
+|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                         Solution                                                                          |
+|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](x04-artificial-intelligence/009.probability-and-statistics-foundations/src/day-2-basic-probability-puzzles-1.txt) |
+
+## C
+
+|      Subcategory       | Difficulty |                                                         Challenge                                                          |                                                       Solution                                                        |
+|:----------------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+| Conditionals and Loops |    Easy    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [sum-of-digits-of-a-five-digit-number.c](x05-c/002.conditionals-and-loops/src/sum-of-digits-of-a-five-digit-number.c) |
+
 ## Java
 
 |         Subcategory         | Difficulty |                                                            Challenge                                                             |                                                           Solution                                                            |
@@ -87,12 +106,6 @@ Implementations for various HackerRank problems.
 |     Exception Handling      |    Easy    |                 [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)                 |                 [JavaExceptionHandling.java](x07-java/006.exception-handling/src/JavaExceptionHandling.java)                  |
 |          Advanced           |    Easy    |                      [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)                      |                       [JavaSingletonPattern.java](x07-java/007.advanced/src/JavaSingletonPattern.java)                        |
 
-## C
-
-|      Subcategory       | Difficulty |                                                         Challenge                                                          |                                                       Solution                                                        |
-|:----------------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| Conditionals and Loops |    Easy    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [sum-of-digits-of-a-five-digit-number.c](x05-c/002.conditionals-and-loops/src/sum-of-digits-of-a-five-digit-number.c) |
-
 ## Python
 
 |   Subcategory    | Difficulty |                                                    Challenge                                                    |                                                      Solution                                                      |
@@ -110,43 +123,6 @@ Implementations for various HackerRank problems.
 | Basic Data Types |    Easy    |         [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)          |               [finding-the-percentage.py](x08-python/002.basic-data-types/finding-the-percentage.py)               |
 | Basic Data Types |    Easy    |                       [Lists](https://www.hackerrank.com/challenges/python-lists/problem)                       |                         [python-lists.py](x08-python/002.basic-data-types/python-lists.py)                         |
 | Basic Data Types |    Easy    |                      [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                      |                        [python-tuples.py](x08-python/002.basic-data-types/python-tuples.py)                        |
-
-## Linux Shell
-
-| Subcategory | Difficulty |                                                               Challenge                                                               |                                               Solution                                                |
-|:-----------:|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|    Bash     |    Easy    |                         [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)                          |                        [let-s-echo.sh](x12-linux-shell/001.bash/let-s-echo.sh)                        |
-|    Bash     |    Easy    |              [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)              |              [looping-and-skipping.sh](x12-linux-shell/001.bash/looping-and-skipping.sh)              |
-|    Bash     |    Easy    |               [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)               |               [a-personalized-echo.sh](x12-linux-shell/001.bash/a-personalized-echo.sh)               |
-|    Bash     |    Easy    |              [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)              |              [looping-with-numbers.sh](x12-linux-shell/001.bash/looping-with-numbers.sh)              |
-|    Bash     |    Easy    |              [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)              |              [the-world-of-numbers.sh](x12-linux-shell/001.bash/the-world-of-numbers.sh)              |
-|    Bash     |    Easy    |                 [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)                 |                 [comparing-numbers.sh](x12-linux-shell/001.bash/comparing-numbers.sh)                 |
-|    Bash     |    Easy    | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [getting-started-with-conditionals.sh](x12-linux-shell/001.bash/getting-started-with-conditionals.sh) |
-|    Bash     |    Easy    |              [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)              |              [more-on-conditionals.sh](x12-linux-shell/001.bash/more-on-conditionals.sh)              |
-
-## Databases
-
-|    Subcategory     | Difficulty |                                                        Challenge                                                         |                                                   Solution                                                    |
-|:------------------:|:----------:|:------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem) | [basics-of-sets-and-relations-1.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-1.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem) | [basics-of-sets-and-relations-2.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-2.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem) | [basics-of-sets-and-relations-3.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-3.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4/problem) | [basics-of-sets-and-relations-4.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-4.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5/problem) | [basics-of-sets-and-relations-5.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-5.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6/problem) | [basics-of-sets-and-relations-6.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-6.txt) |
-| Relational Algebra |    Easy    | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/problem) | [basics-of-sets-and-relations-7.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-7.txt) |
-| Relational Algebra |    Easy    |               [Relational Algebra - 3](https://www.hackerrank.com/challenges/relational-algebra-3/problem)               |           [relational-algebra-3.txt](x11-databases/001.relational-algebra/relational-algebra-3.txt)           |
-| Relational Algebra |    Easy    |               [Relational Algebra - 4](https://www.hackerrank.com/challenges/relational-algebra-4/problem)               |           [relational-algebra-4.txt](x11-databases/001.relational-algebra/relational-algebra-4.txt)           |
-| Relational Algebra |    Easy    |            [Database Query Languages](https://www.hackerrank.com/challenges/database-query-languages/problem)            |       [database-query-languages.txt](x11-databases/001.relational-algebra/database-query-languages.txt)       |
-| Relational Algebra |    Easy    |                 [Procedural Language](https://www.hackerrank.com/challenges/procedural-language/problem)                 |            [procedural-language.txt](x11-databases/001.relational-algebra/procedural-language.txt)            |
-| Relational Algebra |    Easy    |                        [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem)                        |                    [relations-1.txt](x11-databases/001.relational-algebra/relations-1.txt)                    |
-| Relational Algebra |    Easy    |                        [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem)                        |                    [relations-2.txt](x11-databases/001.relational-algebra/relations-2.txt)                    |
-|      Indexes       |    Easy    |                   [Index Architecture Types](https://www.hackerrank.com/challenges/indexes-1/problem)                    |                           [indexes-1.txt](x11-databases/002.indexes/indexes-1.txt)                            |
-|      Indexes       |    Easy    |                          [Indexes - 2](https://www.hackerrank.com/challenges/indexes-2/problem)                          |                           [indexes-2.txt](x11-databases/002.indexes/indexes-2.txt)                            |
-|      Indexes       |    Easy    |                          [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem)                          |                           [indexes-3.txt](x11-databases/002.indexes/indexes-3.txt)                            |
-|      Indexes       |    Easy    |                          [Indexes - 4](https://www.hackerrank.com/challenges/indexes-4/problem)                          |                           [indexes-4.txt](x11-databases/002.indexes/indexes-4.txt)                            |
-|        OLAP        |    Hard    |                    [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem)                    |                      [olap-performance.txt](x11-databases/003.olap/olap-performance.txt)                      |
-|        OLAP        |    Hard    |                  [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem)                  |                     [olap-operations-1.txt](x11-databases/003.olap/olap-operations-1.txt)                     |
 
 ## Sql
 
@@ -193,28 +169,42 @@ Implementations for various HackerRank problems.
 |     Basic Join      |    Easy    |                         [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)                          |                         [asian-population.sql](x10-sql/004.basic-join/asian-population.sql)                          |
 |     Basic Join      |    Easy    |      [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)      |     [average-population-of-each-continent.sql](x10-sql/004.basic-join/average-population-of-each-continent.sql)      |
 
-## Regex
+## Databases
 
-| Subcategory | Difficulty | Challenge | Solution |
-|:-----------:|:----------:|:---------:|:--------:|
+|    Subcategory     | Difficulty |                                                        Challenge                                                         |                                                   Solution                                                    |
+|:------------------:|:----------:|:------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem) | [basics-of-sets-and-relations-1.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-1.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem) | [basics-of-sets-and-relations-2.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-2.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem) | [basics-of-sets-and-relations-3.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-3.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4/problem) | [basics-of-sets-and-relations-4.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-4.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5/problem) | [basics-of-sets-and-relations-5.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-5.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6/problem) | [basics-of-sets-and-relations-6.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-6.txt) |
+| Relational Algebra |    Easy    | [Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/problem) | [basics-of-sets-and-relations-7.txt](x11-databases/001.relational-algebra/basics-of-sets-and-relations-7.txt) |
+| Relational Algebra |    Easy    |               [Relational Algebra - 3](https://www.hackerrank.com/challenges/relational-algebra-3/problem)               |           [relational-algebra-3.txt](x11-databases/001.relational-algebra/relational-algebra-3.txt)           |
+| Relational Algebra |    Easy    |               [Relational Algebra - 4](https://www.hackerrank.com/challenges/relational-algebra-4/problem)               |           [relational-algebra-4.txt](x11-databases/001.relational-algebra/relational-algebra-4.txt)           |
+| Relational Algebra |    Easy    |            [Database Query Languages](https://www.hackerrank.com/challenges/database-query-languages/problem)            |       [database-query-languages.txt](x11-databases/001.relational-algebra/database-query-languages.txt)       |
+| Relational Algebra |    Easy    |                 [Procedural Language](https://www.hackerrank.com/challenges/procedural-language/problem)                 |            [procedural-language.txt](x11-databases/001.relational-algebra/procedural-language.txt)            |
+| Relational Algebra |    Easy    |                        [Relations - 1](https://www.hackerrank.com/challenges/relations-1/problem)                        |                    [relations-1.txt](x11-databases/001.relational-algebra/relations-1.txt)                    |
+| Relational Algebra |    Easy    |                        [Relations - 2](https://www.hackerrank.com/challenges/relations-2/problem)                        |                    [relations-2.txt](x11-databases/001.relational-algebra/relations-2.txt)                    |
+|      Indexes       |    Easy    |                   [Index Architecture Types](https://www.hackerrank.com/challenges/indexes-1/problem)                    |                           [indexes-1.txt](x11-databases/002.indexes/indexes-1.txt)                            |
+|      Indexes       |    Easy    |                          [Indexes - 2](https://www.hackerrank.com/challenges/indexes-2/problem)                          |                           [indexes-2.txt](x11-databases/002.indexes/indexes-2.txt)                            |
+|      Indexes       |    Easy    |                          [Indexes - 3](https://www.hackerrank.com/challenges/indexes-3/problem)                          |                           [indexes-3.txt](x11-databases/002.indexes/indexes-3.txt)                            |
+|      Indexes       |    Easy    |                          [Indexes - 4](https://www.hackerrank.com/challenges/indexes-4/problem)                          |                           [indexes-4.txt](x11-databases/002.indexes/indexes-4.txt)                            |
+|        OLAP        |    Hard    |                    [OLAP Performance](https://www.hackerrank.com/challenges/olap-performance/problem)                    |                      [olap-performance.txt](x11-databases/003.olap/olap-performance.txt)                      |
+|        OLAP        |    Hard    |                  [OLAP Operations - 1](https://www.hackerrank.com/challenges/olap-operations-1/problem)                  |                     [olap-operations-1.txt](x11-databases/003.olap/olap-operations-1.txt)                     |
 
-## Artificial Intelligence
+## Linux Shell
 
-|              Subcategory               | Difficulty |                                                    Challenge                                                     |                                                                         Solution                                                                          |
-|:--------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Probability & Statistics - Foundations |    Easy    | [Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem) | [day-2-basic-probability-puzzles-1.txt](x04-artificial-intelligence/009.probability-and-statistics-foundations/src/day-2-basic-probability-puzzles-1.txt) |
-
-## Functional Programming
-
-| Subcategory | Difficulty | Challenge | Solution |
-|:-----------:|:----------:|:---------:|:--------:|
-
-## Mathematics
-
-| Subcategory | Difficulty |                                          Challenge                                           |                                      Solution                                       |
-|:-----------:|:----------:|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-|  Geometry   |    Easy    |      [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game/problem)      |      [rectangular-game.c](x03-mathematics/src/005.geometry/rectangular-game.c)      |
-|  Geometry   |    Easy    | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting/problem) | [sherlock-and-counting.c](x03-mathematics/src/005.geometry/sherlock-and-counting.c) |
+| Subcategory | Difficulty |                                                               Challenge                                                               |                                               Solution                                                |
+|:-----------:|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+|    Bash     |    Easy    |                         [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)                          |                        [let-s-echo.sh](x12-linux-shell/001.bash/let-s-echo.sh)                        |
+|    Bash     |    Easy    |              [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)              |              [looping-and-skipping.sh](x12-linux-shell/001.bash/looping-and-skipping.sh)              |
+|    Bash     |    Easy    |               [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)               |               [a-personalized-echo.sh](x12-linux-shell/001.bash/a-personalized-echo.sh)               |
+|    Bash     |    Easy    |              [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)              |              [looping-with-numbers.sh](x12-linux-shell/001.bash/looping-with-numbers.sh)              |
+|    Bash     |    Easy    |              [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)              |              [the-world-of-numbers.sh](x12-linux-shell/001.bash/the-world-of-numbers.sh)              |
+|    Bash     |    Easy    |                 [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)                 |                 [comparing-numbers.sh](x12-linux-shell/001.bash/comparing-numbers.sh)                 |
+|    Bash     |    Easy    | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [getting-started-with-conditionals.sh](x12-linux-shell/001.bash/getting-started-with-conditionals.sh) |
+|    Bash     |    Easy    |              [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)              |              [more-on-conditionals.sh](x12-linux-shell/001.bash/more-on-conditionals.sh)              |
 
 ## Tutorials
 
