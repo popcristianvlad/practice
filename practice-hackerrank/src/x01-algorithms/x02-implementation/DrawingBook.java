@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class DrawingBook {
 
     static int pageCount(int n, int p) {

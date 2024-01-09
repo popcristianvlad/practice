@@ -1,3 +1,5 @@
+package x99-tutorials.x02-30-days-of-code;
+
 import java.io.*;
 import java.util.stream.IntStream;
 

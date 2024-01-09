@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class AppleAndOrange {
 
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {

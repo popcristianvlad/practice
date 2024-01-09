@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 import java.util.Arrays;
 
 public class OrganizingContainersOfBalls {

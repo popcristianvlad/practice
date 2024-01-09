@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class ElectronicsShop {
 
     static int getMoneySpent(int[] keyboards, int[] drives, int b) {

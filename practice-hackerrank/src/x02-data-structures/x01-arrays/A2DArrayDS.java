@@ -1,3 +1,5 @@
+package x02-data-structures.x01-arrays;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;

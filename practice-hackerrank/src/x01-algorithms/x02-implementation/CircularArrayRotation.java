@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class CircularArrayRotation {
 
     static int[] circularArrayRotation(int[] a, int k, int[] queries) {

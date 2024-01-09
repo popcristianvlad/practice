@@ -1,3 +1,5 @@
+package x07-java.x05-object-oriented-programming;
+
 class BiCycle {
     String define_me() {
         return "a vehicle with pedals.";

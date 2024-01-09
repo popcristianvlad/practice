@@ -1,3 +1,5 @@
+package x99-tutorials.x01-10-days-of-statistics;
+
 import java.math.BigInteger;
 import java.text.DecimalFormat;
 import java.util.Scanner;

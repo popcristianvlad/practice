@@ -1,3 +1,5 @@
+package x01-algorithms.x03-strings;
+
 public class StrongPassword {
 
     private static int minimum_length = 6;

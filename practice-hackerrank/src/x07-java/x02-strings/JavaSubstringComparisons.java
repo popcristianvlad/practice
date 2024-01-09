@@ -1,3 +1,5 @@
+package x07-java.x02-strings;
+
 public class JavaSubstringComparisons {
 
     public static String getSmallestAndLargest(String s, int k) {

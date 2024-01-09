@@ -1,3 +1,5 @@
+package x99-tutorials.x02-30-days-of-code;
+
 package day28;
 
 import java.io.*;

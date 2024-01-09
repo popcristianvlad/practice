@@ -1,3 +1,5 @@
+package x07-java.x07-advanced;
+
 public class JavaSingletonPattern {
 
     private static JavaSingletonPattern instance;

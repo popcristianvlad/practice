@@ -1,3 +1,5 @@
+package x01-algorithms.x06-graph-theory;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

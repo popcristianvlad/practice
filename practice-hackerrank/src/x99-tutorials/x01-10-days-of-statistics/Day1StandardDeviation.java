@@ -1,3 +1,5 @@
+package x99-tutorials.x01-10-days-of-statistics;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

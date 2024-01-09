@@ -1,3 +1,5 @@
+package x07-java.x01-introduction;
+
 public class WelcomeToJava {
 
     public static void main(String[] args) {

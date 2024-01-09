@@ -1,3 +1,5 @@
+package x07-java.x06-exception-handling;
+
 import java.util.Scanner;
 
 class MyCalculator {

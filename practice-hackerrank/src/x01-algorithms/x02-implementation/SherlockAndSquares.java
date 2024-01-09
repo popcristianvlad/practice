@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class SherlockAndSquares {
 
     static int squares(int a, int b) {

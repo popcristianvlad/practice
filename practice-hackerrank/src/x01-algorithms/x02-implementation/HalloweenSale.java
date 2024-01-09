@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class HalloweenSale {
 
     static int howManyGames(int p, int d, int m, int s) {

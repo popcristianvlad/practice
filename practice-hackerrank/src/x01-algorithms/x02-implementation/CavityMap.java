@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class CavityMap {
 
     static String[] cavityMap(String[] grid) {

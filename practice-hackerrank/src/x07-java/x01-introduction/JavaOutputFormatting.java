@@ -1,3 +1,5 @@
+package x07-java.x01-introduction;
+
 import java.util.Scanner;
 
 public class JavaOutputFormatting {

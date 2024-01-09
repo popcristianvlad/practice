@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class BreakingTheRecords {
 
     static int[] breakingRecords(int[] scores) {

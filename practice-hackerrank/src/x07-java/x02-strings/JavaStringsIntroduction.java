@@ -1,3 +1,5 @@
+package x07-java.x02-strings;
+
 import java.util.*;
 
 public class JavaStringsIntroduction {

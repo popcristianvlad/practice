@@ -1,3 +1,5 @@
+package x07-java.x05-object-oriented-programming;
+
 class Animal {
     void walk() {
         System.out.println("I am walking");

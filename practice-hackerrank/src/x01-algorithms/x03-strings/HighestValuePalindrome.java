@@ -1,3 +1,5 @@
+package x01-algorithms.x03-strings;
+
 public class HighestValuePalindrome {
 
     static String highestValuePalindrome(String s, int n, int k) {

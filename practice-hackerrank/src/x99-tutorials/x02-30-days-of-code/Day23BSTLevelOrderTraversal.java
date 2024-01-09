@@ -1,3 +1,5 @@
+package x99-tutorials.x02-30-days-of-code;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

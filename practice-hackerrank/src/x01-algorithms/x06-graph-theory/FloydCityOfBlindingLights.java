@@ -1,3 +1,5 @@
+package x01-algorithms.x06-graph-theory;
+
 public class FloydCityOfBlindingLights {
 
     static int[][] generateFloydMatrix(int numberOfNodes, int numberOfEdges, int[] roadFrom, int[] roadTo, int[] roadWeight) {

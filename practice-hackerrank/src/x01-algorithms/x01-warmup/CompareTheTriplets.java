@@ -1,3 +1,5 @@
+package x01-algorithms.x01-warmup;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;

@@ -1,3 +1,5 @@
+package x01-algorithms.x02-implementation;
+
 public class JumpingOnTheCloudsRevisited {
 
     static int jumpingOnClouds(int[] c, int k) {

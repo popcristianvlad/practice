@@ -1,3 +1,5 @@
+package x07-java.x05-object-oriented-programming;
+
 abstract class Arithmetic {
 
     abstract int add(int a, int b);

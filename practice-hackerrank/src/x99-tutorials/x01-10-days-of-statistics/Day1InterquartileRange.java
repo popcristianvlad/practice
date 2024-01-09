@@ -1,3 +1,5 @@
+package x99-tutorials.x01-10-days-of-statistics;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;

@@ -1,3 +1,5 @@
+package x99-tutorials.x02-30-days-of-code;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

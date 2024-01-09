@@ -1,3 +1,5 @@
+package x07-java.x04-data-structures;
+
 import java.util.*;
 
 public class Java1DArray {
