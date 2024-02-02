@@ -16,6 +16,8 @@ This repo contains various code practicing activities I enjoy doing.
     ├── learning-ml                                      # Learning: Machine Learning
     ├── learning-nodejs                                  # Learning: NodeJS
     ├── learning-python                                  # Learning: Python
+    └── learning-spring-developer                        # Learning: Spring Developer
+        └── jdbc                                         # Spring Tips: Spring Data JDBC
     ├── practice-algorithms                              # Practice: Algorithms
     ├── practice-hackerrank                              # Practice: HackerRank
     ├── practice-leetcode                                # Practice: LeetCode
@@ -50,3 +52,6 @@ This repo contains various code practicing activities I enjoy doing.
 * [Angular - Build your first Angular app](https://angular.io/tutorial/first-app)
 * [Angular - Tour of Heroes](https://angular.io/tutorial/tour-of-heroes)
 * [Angular - Building a template-driven form](https://angular.io/guide/forms)
+
+## Spring Developer
+* [Spring Tips: Spring Data JDBC](https://www.youtube.com/watch?v=srBYXhhLVV4)
