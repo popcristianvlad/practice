@@ -54,4 +54,5 @@ This repo contains various code practicing activities I enjoy doing.
 * [Angular - Building a template-driven form](https://angular.io/guide/forms)
 
 ## Spring Developer
+
 * [Spring Tips: Spring Data JDBC](https://www.youtube.com/watch?v=srBYXhhLVV4)
